@@ -1,0 +1,8 @@
+
+create table stu(
+    id number primary key ,
+    name varchar2(20) not null ,
+    gender char(1) check ( gender='ÄÐ'or gender='Å®') not null ,
+    age number not null ,
+    birth date
+    );

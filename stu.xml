@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Student>
+    <stu id="1">
+        <name>zs</name>
+        <gender>男</gender>
+        <age>20</age>
+        <bitth>1999-09-09</bitth>
+    </stu>
+    <stu id="2">
+        <name>ls</name>
+        <gender>女</gender>
+        <age>22</age>
+        <birth>2000-01-01</birth>
+    </stu>
+
+
+</Student>
